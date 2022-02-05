@@ -4,6 +4,6 @@ import org.junit.*;
 public class SkillDemoFinalTest {
     @Test
     public void testOne() {
-        assertEquals(4, SkillDemoFinal.substract(8, 5));
+        assertEquals(3, SkillDemoFinal.substract(8, 5));
     }
 }
